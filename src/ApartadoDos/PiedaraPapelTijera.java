@@ -1,4 +1,4 @@
-package apartadoDos;
+package ApartadoDos;
 
 import java.io.CharConversionException;
 import java.util.Scanner;

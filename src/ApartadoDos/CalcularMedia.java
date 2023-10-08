@@ -1,4 +1,4 @@
-package apartadoDos;
+package ApartadoDos;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -13,6 +13,7 @@ public class CalcularMedia {
 		// VAMOS A PEDIR TRES NOTAS DE UN USUARIO Y LAS SUME .
 		
 		try (Scanner sc = new Scanner(System.in)) {
+			
 			List<Float> notasAlumno = new ArrayList<Float>();  // ALMACNAMOS LAS NOTAS EN EL ARRAY PARA MAS TARDE TRABAJAR CON ELLAS 
 			
 			// MENU NOTAS
