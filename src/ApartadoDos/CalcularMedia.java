@@ -14,6 +14,7 @@ public class CalcularMedia {
 		
 		try (Scanner sc = new Scanner(System.in)) {
 			
+			// ARRAY LIST ALMACENA LOS NOTAS DE LOS ALUMNOS 
 			List<Float> notasAlumno = new ArrayList<Float>();  // ALMACNAMOS LAS NOTAS EN EL ARRAY PARA MAS TARDE TRABAJAR CON ELLAS 
 			
 			// MENU NOTAS
