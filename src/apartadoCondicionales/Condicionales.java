@@ -1,4 +1,4 @@
-package ApartadoTres;
+package apartadoCondicionales;
 
 import java.util.Scanner;
 

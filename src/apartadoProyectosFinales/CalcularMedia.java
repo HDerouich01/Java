@@ -1,4 +1,4 @@
-package ApartadoDos;
+package apartadoProyectosFinales;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -28,7 +28,8 @@ public class CalcularMedia {
 			
 			
 			
-			// BUCLE PARA PEDIR TANTAS NOTAS COMO EXAMENS SE HAYAN HECHO. !! NO SE PUEDEN INGRESAR MAS DE 10 EXAMENS
+			// BUCLE PARA PEDIR TANTAS NOTAS COMO EXAMENS SE HAYAN HECHO. !! NO SE PUEDEN INGRESAR MAS DE 10 EXAMENES
+			
 			int  i = 0;
 			while( i < examenesRealizados ) {
 				if ( examenesRealizados > 10 ) {

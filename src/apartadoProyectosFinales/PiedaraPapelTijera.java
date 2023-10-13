@@ -1,4 +1,4 @@
-package ApartadoDos;
+package apartadoProyectosFinales;
 
 import java.io.CharConversionException;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package ApartadoCuatro;
+package apartadoCiclos;
 
 public class CiclosWhile {
 

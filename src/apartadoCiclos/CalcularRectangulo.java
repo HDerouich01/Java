@@ -1,4 +1,4 @@
-package ApartadoTres;
+package apartadoCiclos;
 
 import java.util.Scanner;
 

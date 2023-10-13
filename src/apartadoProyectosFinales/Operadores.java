@@ -1,4 +1,4 @@
-package ApartadoDos;
+package apartadoProyectosFinales;
 
 import java.util.Scanner;
 

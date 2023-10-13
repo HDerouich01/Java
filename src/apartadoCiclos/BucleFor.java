@@ -1,4 +1,4 @@
-package ApartadoCuatro;
+package apartadoCiclos;
 
 import java.util.Scanner;
 
