@@ -12,7 +12,7 @@ public class Ejercicio10 {
 		
 		// DECLARACIÓN DE VARIABLES 
 		
-		int numeros [] = new int[10], posicion, ultimo, tamaño  ;
+		int numeros [] = new int[10], posicion, ultimo ;
 		
 		// RECODIGA DE DATOS 
 		

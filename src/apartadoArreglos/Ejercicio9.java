@@ -13,6 +13,7 @@ public class Ejercicio9 {
 		// DECLARACIÓN DE VARIABLES 
 		
 		int numeros [] = new int[10]; 
+		boolean ordenados = true ;
 		
 		
 		// RECOGIDA DE DATOS 
